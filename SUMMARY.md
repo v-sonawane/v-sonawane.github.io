@@ -14,4 +14,4 @@
 
 ## Production ML
 
-* [Props To MLOps](production-ml/props-to-mlops.md)
+* [⚙ Props To MLOps](production-ml/props-to-mlops.md)
