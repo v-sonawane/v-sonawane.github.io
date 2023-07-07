@@ -2,7 +2,7 @@
 description: Go Dev To Prod the smart way!
 ---
 
-# Props To MLOps
+# ⚙ Props To MLOps
 
 If I ask you to take a guess on what percentage of Machine Learning models you think fulfill their destiny and make it into production, what will be your answer? The answer to this question is quite shocking. Approximately just 20% Machine Learning models make it into production. In other words, 80% of Machine Learning projects never get deployed. And no, bad models aren't the reason.
 

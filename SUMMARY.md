@@ -15,3 +15,4 @@
 ## Production ML
 
 * [⚙ Props To MLOps](production-ml/props-to-mlops.md)
+* [✨ Docker-Compose Magic](production-ml/docker-compose-magic.md)
