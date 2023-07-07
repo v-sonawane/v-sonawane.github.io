@@ -2,7 +2,7 @@
 description: ML is all about probem-solving
 ---
 
-# Getting Inspired by the Netflix ML Team
+# 🤩 Getting Inspired by the Netflix ML Team
 
 In my opinion, any technology has more to it than just making our lives easier. It is about how you identify & perceive a problem and how you go about solving it. It has the potential to bring radical changes when put to right use. ChatGPT, taking a recent example, is case in point.
 

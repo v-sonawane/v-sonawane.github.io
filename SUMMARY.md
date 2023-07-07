@@ -4,7 +4,7 @@
 
 ## Crazy Projects
 
-* [Getting Inspired by the Netflix ML Team](crazy-projects/getting-inspired-by-the-netflix-ml-team.md)
+* [🤩 Getting Inspired by the Netflix ML Team](crazy-projects/getting-inspired-by-the-netflix-ml-team.md)
 
 ## How-Tos
 
