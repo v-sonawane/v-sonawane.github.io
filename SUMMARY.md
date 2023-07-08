@@ -5,7 +5,7 @@
 ## Production ML
 
 * [⚙ Props To MLOps](production-ml/props-to-mlops.md)
-* [✨ Docker-Compose Magic](production-ml/docker-compose-magic.md)
+* [✨ Docker-Compose Magic for MLOps](production-ml/docker-compose-magic-for-mlops.md)
 
 ## Crazy Projects
 
