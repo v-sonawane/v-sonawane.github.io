@@ -2,8 +2,6 @@
 description: '#1 of Chai & AI with Vaishnavi'
 ---
 
-# Is my dataset big enough for my image classification use case?
+# ☕ Is my dataset big enough for my image classification use case?
 
-
-
-{% file src="../.gitbook/assets/Chai & AI Series #1.pdf" %}
+{% embed url="https://drive.google.com/file/d/1A1R7sGwGfWd1vrItNNF7u__Oz5TqebP3/view?usp=sharing" %}

@@ -9,7 +9,7 @@
 
 ## Chai & AI with Vaishnavi
 
-* [Is my dataset big enough for my image classification use case?](chai-and-ai-with-vaishnavi/is-my-dataset-big-enough-for-my-image-classification-use-case.md)
+* [☕ Is my dataset big enough for my image classification use case?](chai-and-ai-with-vaishnavi/is-my-dataset-big-enough-for-my-image-classification-use-case.md)
 
 ## How-Tos
 
