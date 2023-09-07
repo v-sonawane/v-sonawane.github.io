@@ -25,4 +25,8 @@ This website started as an outlet for me to geek out on why I am absolutely in l
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 **More about me:** Hi! I am Vaishnavi. I am a MLOps Engineer at Intuitive.Cloud. You can find me on [LinkedIn](https://www.linkedin.com/in/vaishnavisonawane/). Drop in whenever to say Hi and discuss All things ML :)&#x20;
