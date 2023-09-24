@@ -22,7 +22,11 @@ Rule-Based Systems, on the other hand, thrive in domains where rules are well-es
 
 **Round 3: The Upsets**
 
-Picture this: a neural network trying to predict the weather for your weekend barbecue. It could stumble when a surprise storm cloud rolls in. Meanwhile, your trusty rule-based weather app knows that if the forecast says "rain," you're in for a soggy vada pav party.
+Imagine you're in a baking contest, and you're relying on a neural network-powered recipe generator to create the winning cake. It recommends a bold combination of ingredients you've never heard of, promising an extraordinary dessert.
+
+But when you take that first bite, you realize it's an unexpected flavor disaster. On the other side of the kitchen, your grandmother's trusted rule-based recipe, with its familiar, tried-and-true ingredients, consistently delivers a cake that's a crowd-pleaser.
+
+It's a sweet reminder (pun intended) that sometimes, in the battle of algorithms, the classics can still reign supreme.
 
 **Round 4: What's the Secret Sauce?**
 
