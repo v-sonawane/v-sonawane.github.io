@@ -10,6 +10,7 @@
 ## Chai & AI with Vaishnavi
 
 * [☕ Is my dataset big enough for my image classification use case?](chai-and-ai-with-vaishnavi/is-my-dataset-big-enough-for-my-image-classification-use-case.md)
+* [🤼 The Algorithmic Duel: Neural Networks vs. Rule-Based Systems](chai-and-ai-with-vaishnavi/the-algorithmic-duel-neural-networks-vs.-rule-based-systems.md)
 
 ## How-Tos
 
