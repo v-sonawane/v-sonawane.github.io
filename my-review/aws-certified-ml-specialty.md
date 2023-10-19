@@ -190,3 +190,24 @@ plot, bar plot)
  Amazon S3&#x20;
 
 \
+The questions are usually designed in a business architecture manner where many of these services are used together to demonstrate the problem statement and the required solution.
+
+It is best to have working knowledge of MLOps for production - how Machine Learning solutions work in production (in AWS context as well of course) before appearing for the exam.
+
+Here is my honest experience & thoughts-
+
+To be very honest, I was planning to reschedule my exam since I have been caught up with work and couldn't put much time in the prep. But it totally slipped my mind to reschedule! 😂
+
+So, I had less than 24 hours to prepare.
+
+But, on the other hand, I had faith in my understanding of Machine Learning and my experience with AWS ML so far.
+
+So I pulled an all nighter to do a revision of the pre-requisites and it was enough!
+
+I started thinking if my result is a result of just one all-nighter. And the answer is NO, of course not. I have been rigorously studying ML since around second semester of my bachelor's. Not considering the time I invested in college exams, assignments, interview preps, college fun (obvi) etc., I have been following and studying ML for around at least 2.5 to 3 years.
+
+All that time invested and rigorous reading and practicing has now enabled me to be able to attempt such specialization exams without investing too much time prepping for it.
+
+I am thankful it is this way since I would rather prefer applying my knowledge (like I did for this one) than just mugging up answers for a specific exam and moving on without learning anything.
+
+**Conclusion: Certifications are cool but knowledge retention is the coolest!**
