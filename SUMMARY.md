@@ -18,6 +18,10 @@
 * [❔ Conditional Probablity & Bayes’ Theorem for Data Science](how-tos/conditional-probablity-and-bayes-theorem-for-data-science.md)
 * [📷 ROI Segmentation, Contour Detection and Image Thresholding Using OpenCV](how-tos/roi-segmentation-contour-detection-and-image-thresholding-using-opencv.md)
 
+## 🐱 My Review
+
+* [🚀 AWS Certified ML Specialty](my-review/aws-certified-ml-specialty.md)
+
 ## Crazy Projects
 
 * [🤩 Getting Inspired by the Netflix ML Team](crazy-projects/getting-inspired-by-the-netflix-ml-team.md)
